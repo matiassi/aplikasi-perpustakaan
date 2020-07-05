@@ -1,0 +1,4 @@
+1. Buat database baru dengan nama si_perpus
+2. import database tsb dengan file si_perpus.sql pada folder project
+3. Buka project dengan netbeans
+4. Importkan semua file jar yang ada pada folder library
